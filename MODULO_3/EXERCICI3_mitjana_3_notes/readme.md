@@ -1,0 +1,1 @@
+El programa demana a l'usuari/ària que introdueixi 3 notes i el programa mostra la mitjana de les 3 notes per pantalla.

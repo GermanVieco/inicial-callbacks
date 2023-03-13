@@ -1,0 +1,1 @@
+Escriu un programa JavaScript que llegeix un nombre (número) i mostra per pantalla el doble i el triple d'aquest número.
